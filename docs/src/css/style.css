@@ -89,6 +89,11 @@
     color: black;
 }
 
+img
+{
+    border-radius: 20px;
+}
+
 /* CARD */
 .card
 {
